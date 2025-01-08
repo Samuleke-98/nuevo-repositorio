@@ -1,1 +1,1 @@
-proyecto se basa en una pagina web
+Proyecto basado en GitHub para la asignatura de Entornos de Desarrollo.
